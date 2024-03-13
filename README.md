@@ -1,4 +1,4 @@
-# Sales Analysis Project
+# Sales Analysis - Data Science
 
 ## Problem Statement:
 
